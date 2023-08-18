@@ -8,10 +8,17 @@ body {
 
 .profile-pic {
   float:right;
+  filter: grayscale(0%);
+  filter: gray;
+  -webkit-filter: grayscale(0%);
+  filter: none;
+  transition: 1s ease;
 }
 
 .profile-pic:hover {
-  opacity: 0.5;
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  -webkit-transition: all 1s ease;
 }
 
 .exp-header {

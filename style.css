@@ -1,15 +1,12 @@
 body {
   background-color:#EEF1F2;
-  color: #dddddd
+  color: #01224E;
   font-family: Arieal, Helvetica, sans-serif;
-  margin: 10% 10%;
+  margin: 5%;
 }
 
 .exp-header {
-  
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  color: #219EBC
+  color: #FB8600
 }
 
 .right{
@@ -18,9 +15,27 @@ body {
 
 img {
   border-radius: 50%;
-  margin-left: 10%;
+  margin-left: 20px;
 }
 
-.header {
-  margin-bottom: 10%;
+h1 {
+  color: #01224E;
+  font-size: 32px;
 }
+
+h3 {
+  font-size: 16px;
+}
+
+h4 {
+  color: #01224E;
+}
+
+h5 {
+  font-size: 16px;
+}
+
+h6 {
+  font-size: 16px;
+}
+

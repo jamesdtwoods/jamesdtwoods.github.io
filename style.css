@@ -6,11 +6,16 @@ body {
 }
 
 .exp-header {
-  color: #FB8600
+  color: #FB8600;
+  border-bottom: 1px solid #FB8600;
+}
+
+.exp-body {
+  border-bottom: 1px solid #FB8600;
 }
 
 .right{
-    float: right;
+    float:right;
 }
 
 img {
@@ -19,14 +24,23 @@ img {
 }
 
 h1 {
-  color: #01224E;
+  color: #FB8600;
   font-size: 32px;
 }
 
+h3 {
+  font-size: 16px;
+}
 
 h4 {
   color: #01224E;
 }
 
+h5 {
+  font-size: 16px;
+}
 
+h6 {
+  font-size: 16px;
+}
 

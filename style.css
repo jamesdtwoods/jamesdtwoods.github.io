@@ -6,15 +6,13 @@ body {
   background-image: linear-gradient(to bottom left, #B2D1C9, #EEF1F2);
 }
 
-
-.container {
+.profile-pic {
   float:right;
 }
 
-.container:hover {
+.profile-pic:hover {
   opacity: 0.5;
 }
-
 
 .exp-header {
   color: #E87F5F;
@@ -26,12 +24,10 @@ body {
 
 }
 
-
 img {
   border-radius: 50%;
   margin-left: 20px;
 }
-
 
 h1 {
   color: #E87F5F;

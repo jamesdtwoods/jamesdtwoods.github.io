@@ -1,13 +1,26 @@
 body {
-  background-color:#444444;
+  background-color:#EEF1F2;
   color: #dddddd
   font-family: Arieal, Helvetica, sans-serif;
-  margin 10% 20%;
+  margin: 10% 10%;
 }
 
 .exp-header {
-  text-align:center;
-  text-transform: uppercase;
+  
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
+  color: #219EBC
+}
+
+.right{
+    float:right;
+}
+
+img {
+  border-radius: 50%;
+  margin-left: 10%;
+}
+
+.header {
+  margin-bottom: 10%;
 }

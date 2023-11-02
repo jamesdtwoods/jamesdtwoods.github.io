@@ -6,8 +6,8 @@ body {
   background-image: linear-gradient(to bottom left, #B2D1C9, #EEF1F2);
 }
 
-.profile-pic {
-  float:right;
+span {
+  float: right;
   filter: grayscale(0%);
   filter: gray;
   -webkit-filter: grayscale(0%);
@@ -33,6 +33,8 @@ body {
 img {
   border-radius: 50%;
   margin-left: 20px;
+  height: 200px;
+  width: 200px;
 }
 
 h1 {
